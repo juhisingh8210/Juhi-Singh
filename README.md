@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ANKITSPANDEY
 - 👀 I’m interested in CS
 - 🌱 I’m currently learning C, Python, Ds
-- 💞️ I’m 3rd Year Student of CSE
+- 💞️ I’m 4th Year Student of CSE
 - 📫 How to reach me . ankitspandeyofficial@gmail.com
 
 <!---
