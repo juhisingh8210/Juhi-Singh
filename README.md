@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working in PWC as Cyber Security Specialist
 
-- 🌱 I’m currently learning **C, Python, DBMS, SQL, Cyber Security, Web Application Pentesting, Android & ISO Pentesting, API Pentesting**
+- 🌱 I’m currently learning **Python, DBMS, SQL, C, Cyber Security, Mobile Pentesting, IOS & Android Pentesting, Web Application Pentesting, API Pentesting**
 
 - 📝 I regularly write Poem/Shyari on [https://www.instagram.com/thee_untoold_diary/](https://www.instagram.com/thee_untoold_diary/)
 
