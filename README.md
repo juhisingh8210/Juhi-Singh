@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ANKITSPANDEY&label=Profile%20views&color=0e75b6&style=flat&theme=darcula" alt="ankitspandey" /> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working in PWC as Cyber Security Specialist
+- 🔭 I’m currently working in PWC as Cyber Security Associate
 
 - 🌱 I’m currently learning **Python, DBMS, SQL, C, Cyber Security, Mobile Pentesting, IOS & Android Pentesting, Web Application Pentesting, API Pentesting**
 
