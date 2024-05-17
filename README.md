@@ -30,8 +30,8 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Portifolio Website:</h3>
 <p align="left"> <a href="https://ankitpandey.pythonanywhere.com/" target="_blank" rel="noreferrer"><img src="https://www.pngitem.com/pimgs/m/548-5486247_portfolio-icon-design-icon-applewar-hd-png-download.png" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANKITSPANDEY&theme=darcula&show_icons=true&locale=en&layout=compact" alt="ANKITSPANDEY" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANKITSPANDEY07&theme=darcula&show_icons=true&locale=en&layout=compact" alt="ANKITSPANDEY" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ANKITSPANDEY&theme=darcula&show_icons=true&locale=en" alt="ANKITSPANDEY" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ANKITSPANDEY07&theme=darcula&show_icons=true&locale=en" alt="ANKITSPANDEY" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ANKITSPANDEY&theme=darcula" alt="AnkitsPandey" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ANKITSPANDEY07&theme=darcula" alt="AnkitsPandey" /></p>
